@@ -37,21 +37,6 @@ kb count -i /global/scratch/users/aralbright/insulator/bin/index.idx \
 /global/scratch/users/aralbright/insulator/seq/AA4_6_S3_R1_001.fastq.gz /global/scratch/users/aralbright/insulator/seq/AA4_6_S3_R2_001.fastq.gz \
 /global/scratch/users/aralbright/insulator/seq/AA4_6_S4_R1_001.fastq.gz /global/scratch/users/aralbright/insulator/seq/AA4_6_S4_R2_001.fastq.gz
 
-
-
-# cp190
-kb count -i /global/scratch/users/aralbright/insulator/bin/index.idx \
--g /global/scratch/users/aralbright/insulator/bin/t2g.txt \
--c1 /global/scratch/users/aralbright/insulator/bin/cdna_t2c.txt \
--c2 /global/scratch/users/aralbright/insulator/bin/intron_t2c.txt \
--x 10xv3 -o /global/scratch/users/aralbright/insulator/cp190-processed-mm -t 24 --verbose --nucleus --mm --h5ad --keep-tmp \
-/global/scratch/users/aralbright/insulator/seq/AA4_8_S5_R1_001.fastq.gz /global/scratch/users/aralbright/insulator/seq/AA4_8_S5_R2_001.fastq.gz \
-/global/scratch/users/aralbright/insulator/seq/AA4_8_S6_R1_001.fastq.gz /global/scratch/users/aralbright/insulator/seq/AA4_8_S6_R2_001.fastq.gz \
-/global/scratch/users/aralbright/insulator/seq/AA4_8_S7_R1_001.fastq.gz /global/scratch/users/aralbright/insulator/seq/AA4_8_S7_R2_001.fastq.gz \
-/global/scratch/users/aralbright/insulator/seq/AA4_8_S8_R1_001.fastq.gz /global/scratch/users/aralbright/insulator/seq/AA4_8_S8_R2_001.fastq.gz
-
-
-
 # ctcf
 kb count -i /global/scratch/users/aralbright/insulator/bin/index.idx \
 -g /global/scratch/users/aralbright/insulator/bin/t2g.txt \
