@@ -9,12 +9,14 @@ I ran these on a server, but Google Colab can be used for this as well.
   - kb-ref.sh
     
     Builds a custom reference for Drosophila melanogaster, --workflow nucleus retains introns 
-    Usage: [kb ref](https://www.kallistobus.tools/kb_usage/kb_ref.html)
+   
+   Usage: [kb ref](https://www.kallistobus.tools/kb_usage/kb_ref.html)
 
   - kb-count-ctcf.sh
 
     Generates the nucleus x gene matrix 
-    Usage: [kb count](https://www.kallistobus.tools/kb_usage/kb_count.html)
+   
+   Usage: [kb count](https://www.kallistobus.tools/kb_usage/kb_count.html)
 
   - t2g.txt
 
