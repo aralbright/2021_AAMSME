@@ -2,7 +2,7 @@
 
 Author: Ashley Albright
 
-This repository contains the necessary files and notebooks to reproduce figures and analysis from 'Single-nucleus RNA-sequencing in pre-cellularization Drosophila melanogaster embryos' and _eventual link_. The notebooks are hosted on Google Colab, making the analysis usable and reproducible. 
+This repository contains the necessary files and notebooks to reproduce figures and analysis from the manuscript [Single-nucleus RNA-sequencing in pre-cellularization Drosophila melanogaster embryos](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270471). The notebooks are hosted on Google Colab, making the analysis usable and reproducible. 
 
 ## Notebooks: 
 
